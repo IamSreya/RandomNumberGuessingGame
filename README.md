@@ -8,3 +8,5 @@ This is a simple number guessing game where the player has to guess a randomly g
 - After each guess, feedback is provided indicating if the guess is too high or too low.
 - The game ends when the player guesses the correct number or runs out of attempts.
 
+## Hosting Link
+https://iamsreya.github.io/RandomNumberGuessingGame/
