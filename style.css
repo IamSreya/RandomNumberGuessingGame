@@ -1,0 +1,71 @@
+body {
+    padding: auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: wheat;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#wrapper{
+    text-align: center;
+    background-color: thistle;
+    padding: 50px;
+    border-radius: 15px;
+    border: gray solid;
+    box-shadow: 0 0 10px;
+}
+
+h1{
+    margin-bottom: 20px;
+    text-decoration: dotted;
+    font-family: cursive;
+    font-size: 40px;
+    color: rgb(3, 11, 98);
+}
+
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+.form{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+label{
+    font-size: 1.2em;
+}
+
+.guessField{
+    padding: 5px;
+    border-radius: 10px;
+    border:2px black solid;
+    box-shadow: 0 0 3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.guessSubmit{
+    padding: 3px;
+    border-radius: 10px;
+    border:2px black solid;
+    box-shadow: 0 0 3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.guessSubmit:hover{
+    background-color:rgb(196, 163, 227);
+}
+
+.resultParas p{
+    margin: 25px 0;
+}
+
+.lowOrHigh{
+    font-weight: bold;
+}
